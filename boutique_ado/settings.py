@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-uloeg-boutiqueado-lxg3kguqibf.ws.codeinstitute-ide.net',
                  'localhost',
-                 'boutiqueado-u.herokuapp.com',]
+                 'boutiqueado-u-47bae47ac310.herokuapp.com',]
 
 
 # Application definition
